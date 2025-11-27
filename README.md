@@ -1,14 +1,13 @@
 # Investment-Guide-Towards-40k-in-2-Years-with-Data-Analysis-and-Forecasting.ipynb
 
-Layse is a successful nutritionist, dedicated to helping her patients achieve a healthier life. However, beyond her passion for nutrition, Layse has a big personal dream: to take her family on an unforgettable trip through Europe in just two years. To turn this dream into reality, she has set a clear financial goal: accumulate R\$ 40,000.
+Layse is a successful nutritionist, dedicated to helping her patients achieve a healthier life. However, beyond her passion for nutrition, Layse has a big personal dream: to take her family on an unforgettable trip through Europe in five years. To turn this dream into reality, she has set a clear financial goal: accumulate R\$ 40,000.
 
 **Imagine Layse hires you, the data scientist, to help her on this mission.**
 
 With a busy routine, Layse is looking for a smart and data-driven way to optimize her savings and investments. This is where this data science project comes in.
 
-The main objective of this project is to assist Layse in her financial journey, providing actionable insights to help her reach her goal of R\$ 40,000 in 2 years. Through the analysis of historical financial market data, we will use Machine Learning models to project potential returns and risks of various assets. Based on these projections, we will calculate the required monthly investment for Layse to achieve her goal, considering her initial capital (or lack thereof).
+The main objective of this project is to assist Layse in her financial journey, providing actionable insights to help her reach her goal of R\$ 40,000 in 5 years. Through the analysis of historical financial market data, we will use Machine Learning models to project potential returns and risks of various assets. Based on these projections, we will calculate the required monthly investment for Layse to achieve her goal, considering her initial capital (or lack thereof).
 
-In addition to historical analysis and projections, the project will explore integration with real-time data processing tools like Spark and Kafka. This will enable the construction of a more dynamic data pipeline, capable of providing updated insights into the financial market, potentially improving investment recommendations over time.
 
 Join us on this data journey to help Layse turn her European dream into a reality!
 
@@ -16,7 +15,7 @@ Sure! Here’s a well-organized and structured format for the requirement analys
 
 Requirements Analysis
 1. High-Level Functional Requirements (Use Cases)
-This section defines the high-level functional requirements that the system must fulfill to determine which asset (ticker) the client, Layse, should invest in to accumulate R$ 40,000.00 in 2 years, prioritizing the lowest possible monthly contribution.
+This section defines the high-level functional requirements that the system must fulfill to determine which asset (ticker) the client, Layse, should invest in to accumulate R$ 40,000.00 in 5 years, prioritizing the lowest possible monthly contribution.
 1.1. Actors Involved
 
 
@@ -39,7 +38,7 @@ Does not interact directly with the system at this stage but is the recipient of
 
 Define Goals and Constraints
 
-Allows the Financial Analyst to input the client’s objectives (Target: R$ 40,000; Term: 2 years) and the optimization constraint (minimize monthly contribution).
+Allows the Financial Analyst to input the client’s objectives (Target: R$ 40,000; Term: 5 years) and the optimization constraint (minimize monthly contribution).
 
 
 
